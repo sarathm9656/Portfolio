@@ -1,0 +1,14 @@
+{
+  "name": "3d-word-cloud",
+  "main": "jquery.svg3dtagcloud.js",
+  "homepage": "https://github.com/GFwer/jquery-svg3dtagcloud-plugin",
+  "authors": [
+  ],
+  "description": "SVG 3D Tag Cloud jQuery plugin",
+  "keywords": [
+    "svg",
+    "wordcloud"
+  ],
+  "license": "MIT",
+  "ignore": []
+}

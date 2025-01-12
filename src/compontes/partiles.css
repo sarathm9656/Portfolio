@@ -1,0 +1,7 @@
+/* Wrapper to control the dimensions */
+.particles-wrapper {
+  width: 100%; /* Full width of the parent */
+  height: 300px; /* Set desired height */
+  position: relative; /* Required for Particles to fit inside */
+  overflow: hidden; /* Ensures no overflow issues */
+}
