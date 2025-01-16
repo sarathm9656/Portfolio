@@ -1,10 +1,15 @@
-"scripts": {
-  "build": "node_modules/.bin/vite build",
-  "start": "node_modules/.bin/vite preview",
-  "dev": "node_modules/.bin/vite",
-  "lint": "eslint .",
-  "preview": "node_modules/.bin/vite preview"
-},
+{
+  "name": "my-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite preview",
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
 
   "dependencies": {
     "@emotion/react": "^11.14.0",
